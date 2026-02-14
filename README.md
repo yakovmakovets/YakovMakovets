@@ -1,7 +1,7 @@
 ![Header](https://raw.githubusercontent.com/YakovMakovets/YakovMakovets/master/github_line1.png "Header")
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/YakovMakovets/YakovMakovets/master/wave.gif" width="30px">
-My name is Yakov Makovets and I'm a software developer. I'm from Russia, living in Moscow and currently working on client/server Java Developement.
+My name is Yakov Makovets and I'm a software developer. I'm from Russia, living in Sochi and currently working on client/server Java Developement.
 
 # Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
