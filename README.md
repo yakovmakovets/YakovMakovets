@@ -1,6 +1,6 @@
 # Yakov Makovets
 
-Senior Java Backend Engineer specialized in distributed systems and data-intensive platforms.
+Senior Java Backend Engineer focused on distributed systems and data-intensive platforms.
 
 Currently working on high-load, geo-distributed demand forecasting and inventory optimization systems in retail.
 
